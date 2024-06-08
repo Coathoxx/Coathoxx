@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Weezine Coathox, a software developer who focuses on developing desktop softwares. I have various softwares and server files to offer.
-### You can reach out to me faster on Telegram [@coathox](t.me/coathox) on telegram
+### You can reach out to me faster on Telegram [@Coathox](t.me/coathox) on Telegram
 
 <!---
 Coathox/Coathox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
